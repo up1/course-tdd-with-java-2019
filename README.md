@@ -1,4 +1,4 @@
-# course-swpark-tdd-with-java
+# Course TDD with Java
 
 ## Unit testing
 * แนวคิดพื้นฐานของ Unit testing
